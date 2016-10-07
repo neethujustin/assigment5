@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html ng-app="myApp">
+<head>
+	<title>International tourist places</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script src="node_modules\angular/angular.min.js"></script>
+    <script src="node_modules\angular-ui-router\release/angular-ui-router.min.js"></script> 
+  	<script src="script/app.js"></script>
+  	<style type="text/css">
+  		body{
+  			background-color: #3366ff;
+  		}
+  		h1{
+  			text-align: center;
+  			color: #00ffcc;
+  		}
+  		img{
+  			height: 150px;
+  			width: 150px;
+  		}
+  		.zooming{
+  			width: 500px;
+  			height: 543px;
+  			margin:0 auto;
+  		}
+  		a{
+  			text-decoration: none;
+  			font-size: 20px;
+  			color: #660033;
+  		}
+  		.main{
+  			width: 500px;
+
+  			margin:0 auto;	
+  		}
+  		
+  		.back{
+  			width: 20px;
+  			margin:0 auto;
+  			background-color: #f2e6ff;
+  		}
+  		li{
+  			display: inline-block;
+  			margin: 0 0 0 20px;
+  		}
+
+  	</style>
+</head>
+<body>
+<h1>INTERNATIONAL TOURIST DESTINATIONS </h1>
+<div class="main" ui-view ng-controller="myController">
+ <ul>
+  <li ng-repeat='i in data.destdetails'>
+  <a ui-sref="descrip({key:$index})"><img src={{i.url}}><p>{{i.name}}</p></a>
+  </li>
+ </ul>
+</div>
+
+</body>
+</html>

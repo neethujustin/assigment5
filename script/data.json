@@ -1,0 +1,61 @@
+{
+ 	"destdetails":[ {
+ 			"name":"Seychelles",
+ 			"url":"images/dest1.jpg",
+ 			"description":"This exotic island in the Indian Ocean is still not commercial, and is unknown to many Indians. A perfect retreat for the beach loving Indian, a trip to Seychelles will not set you back by more than Rs 50-60,000. "
+ 			
+ 		}, 
+ 		{
+ 			"name":"Thailand",
+ 			"url":"images/dest2.jpg",
+ 			"description":"You love gorging on all those Thai curries. Why not visit the place and experience one for real? The air-fares to Thailand are cheap and the stay options are not too expensive. The people are welcoming and you can get great stuff at budget prices. "
+ 		}, 
+ 		{
+ 			"name":"Hawaii",
+ 			"url":"images/dest3.jpg",
+ 			"description":"The most expensive part of this trip would perhaps be airfares. Hawaii is all about the sun, the sand and the surf. You can lose yourself in the exotic locations with crystal clear beaches and coral reefs that will make you do a double-take underwater. "
+ 		},
+ 		{
+ 			"name":"Vietnam",
+ 			"url":"images/dest4.jpg",
+ 			"description":"The entire trip should not cost you too much if you decide to ditch high-end hotels and opt for cheaper homestays."
+ 			
+ 		}, 
+ 		{
+ 			"name":"Cambodia",
+ 			"url":"images/dest5.jpg",
+ 			"description":"Famous mainly for Angkor Wat, there's a lot more to Cambodia than just the heritage site. The little villages will afford you a glimpse into the Cambodian lifestyle and there are even mountains to scale for the adventurous traveler."
+ 			
+ 		}, 
+ 		{
+ 			"name":"Maldives",
+ 			"url":"images/dest6.jpg",
+ 			"description":"A popular honeymoon destination for Indians, Maldives is a good place to visit if you want an international location teeming with Indians. Famous for its water sports and beaches, Maldives is heaven for sea-food lovers. You can opt to stay with one of the locals for the complete experience"
+ 			
+ 		}, 
+ 		{
+ 			"name":"Sri Lanka",
+ 			"url":"images/dest7.jpg",
+ 			"description":"Often ignored by Indians, our Southern neighbour boasts of great tourism at extremely affordable prices. The place is as culturally rich as India and is great for nature lovers as there are many zoos and scenic locations. "
+ 			
+ 		}, 
+ 		{
+ 			"name":"Singapore",
+ 			"url":"images/dest8.jpg",
+ 			"description":"One of the most beautiful countries, Singapore has a lot to offer in terms of nature, culture and cuisine, modern structures and architecture, monuments and beaches. A small country and populated, you will get a slightly 'Indian' feel here."
+ 			
+ 		}, 
+ 		{
+ 			"name":"Malaysia",
+ 			"url":"images/dest9.jpg",
+ 			"description":"Another favourite Indian destination, Malaysia is beautiful and the warmth of the people there will amaze you."
+ 			
+ 		}, 
+ 		{
+ 			"name":"Bangkok",
+ 			"url":"images/dest10.jpg",
+ 			"description":"A haven for shopaholics. Go here only for the shopping experience and the crazy street-side food. The ladyboy shows will leave you stunned and you will be left amazed at the grace and skill with which they dance. One of the cheapest destinations on our list, plan your trip properly and you can get it done in less than 30k."
+ 			
+ 		}
+ 		]
+}
